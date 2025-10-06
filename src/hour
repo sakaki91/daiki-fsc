@@ -1,0 +1,5 @@
+while true; do
+clear
+echo "It's $(date +"%D") on $(date +"%H:%M:%S")"
+sleep 1
+done
